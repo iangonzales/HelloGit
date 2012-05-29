@@ -1,4 +1,4 @@
 HelloGit
 ========
 
-For testing purposes of GIT
+Change the content of the readme file.
